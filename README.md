@@ -176,4 +176,3 @@ Response: { "id": 1, "paidBy": 1, "amount": 100, "splits": [...] }
 ## Conclusion
 
 This project provides a **clear, maintainable, and extensible backend** for an expense sharing application. It demonstrates strong **problem structuring, business logic implementation, and clean design principles**—making it suitable for production-grade extensions and company evaluation.
-```
